@@ -1,0 +1,16 @@
+Abenezer Haile 
+Savings
+20000
+123
+Deposit 5000 Thu Jan  2 12:07:01 2025
+----
+Haile Tadesse
+Savings
+1555
+123
+----
+someone
+Savings
+5000
+123
+----
